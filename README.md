@@ -17,7 +17,6 @@ Tags: Se uma postagem não tiver tag, vamos tratá-la como vazia. Sem segredo!<b
 
 📊 Estrutura dos Dados<br><br>
 Aqui estão os componentes essenciais da nossa análise:<br>
-
 Coluna	Descrição<br>
 Tipo	Tipo do conteúdo publicado (Foto, Vídeo, Carrossel)<br>
 Data	Data da publicação<br>
@@ -35,13 +34,10 @@ A jornada dos dados inclui:<br>
 
 Importação dos Dados<br>
 Carregamos os dados diretamente de um arquivo Excel e preparamos para análise.<br>
-
 Limpeza de Dados<br>
 Aqui, tratamos valores ausentes e removemos dados inconsistentes, garantindo que nossa análise seja precisa e confiável.<br>
-
 Exploração dos Dados<br>
 Fazemos uma verificação rápida nas variáveis, contando valores nulos e explorando a estrutura do dataset.<br>
-
 Visualizações<br>
 Criamos gráficos incríveis (barras e linhas) para visualizar como as curtidas e comentários variam ao longo das postagens e campanhas.<br>
 
@@ -50,9 +46,6 @@ Criamos gráficos incríveis (barras e linhas) para visualizar como as curtidas 
 
 🔮 Conclusão<br><br>
 Com esta análise, conseguimos entender o que funciona (e o que não funciona) no seu Instagram. Agora, com dados em mãos, você pode:<br>
-
 Otimizar suas postagens: Crie mais conteúdo que ressoe com seu público.<br>
-
 Aprimorar suas campanhas: Use os resultados para ajustar suas estratégias e obter mais interações.<br>
-
 Agora é hora de usar esses insights para transformar seu Instagram em uma máquina de engajamento!<br><br>
