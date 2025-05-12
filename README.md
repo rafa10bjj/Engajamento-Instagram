@@ -2,7 +2,7 @@
 🔍 Desvendando o segredo por trás das interações no Instagram da sua empresa!<br><br>
 Bem-vindo à nossa jornada de análise de dados! Neste repositório, vamos explorar os números e descobrir quais postagens no Instagram da sua empresa geram mais engajamento. <br><br>A análise foi realizada usando dados históricos das publicações, desde o início das postagens até o dia 27 de março. Vamos entender as interações que geram mais curtidas, comentários e como suas campanhas influenciam o engajamento.
 
-🚀 Objetivo da Análise<br>
+🚀 Objetivo da Análise<br><br>
 📈 O que queremos descobrir?<br><br>
 Qual tipo de conteúdo mais engaja no Instagram da minha empresa?<br>
 Estamos falando de Fotos, Vídeos, Carrosséis e tudo que se pode fazer para capturar a atenção dos seus seguidores!<br>
@@ -31,28 +31,28 @@ Carrossel	Indica se o post é um carrossel (S ou N)<br>
 Interações	Total de interações (curtidas + comentários)<br><br>
 
 🧹 Etapas da Análise<br><br>
-A jornada dos dados inclui:<br><br>
+A jornada dos dados inclui:<br>
 
-Importação dos Dados<br><br>
-Carregamos os dados diretamente de um arquivo Excel e preparamos para análise.<br><br>
+Importação dos Dados<br>
+Carregamos os dados diretamente de um arquivo Excel e preparamos para análise.<br>
 
-Limpeza de Dados<br><br>
-Aqui, tratamos valores ausentes e removemos dados inconsistentes, garantindo que nossa análise seja precisa e confiável.<br><br>
+Limpeza de Dados<br>
+Aqui, tratamos valores ausentes e removemos dados inconsistentes, garantindo que nossa análise seja precisa e confiável.<br>
 
-Exploração dos Dados<br><br>
-Fazemos uma verificação rápida nas variáveis, contando valores nulos e explorando a estrutura do dataset.
+Exploração dos Dados<br>
+Fazemos uma verificação rápida nas variáveis, contando valores nulos e explorando a estrutura do dataset.<br>
 
-Visualizações<br><br>
-Criamos gráficos incríveis (barras e linhas) para visualizar como as curtidas e comentários variam ao longo das postagens e campanhas.<br><br>
+Visualizações<br>
+Criamos gráficos incríveis (barras e linhas) para visualizar como as curtidas e comentários variam ao longo das postagens e campanhas.<br>
 
 📊 Gráficos Gerados<br><br>
 
 
 🔮 Conclusão<br><br>
-Com esta análise, conseguimos entender o que funciona (e o que não funciona) no seu Instagram. Agora, com dados em mãos, você pode:<br><br>
+Com esta análise, conseguimos entender o que funciona (e o que não funciona) no seu Instagram. Agora, com dados em mãos, você pode:<br>
 
-Otimizar suas postagens: Crie mais conteúdo que ressoe com seu público.<br><br>
+Otimizar suas postagens: Crie mais conteúdo que ressoe com seu público.<br>
 
-Aprimorar suas campanhas: Use os resultados para ajustar suas estratégias e obter mais interações.<br><br>
+Aprimorar suas campanhas: Use os resultados para ajustar suas estratégias e obter mais interações.<br>
 
 Agora é hora de usar esses insights para transformar seu Instagram em uma máquina de engajamento!<br><br>
