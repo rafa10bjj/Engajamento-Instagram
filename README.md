@@ -42,7 +42,17 @@ Visualizações<br>
 Criamos gráficos incríveis (barras e linhas) para visualizar como as curtidas e comentários variam ao longo das postagens e campanhas.<br>
 
 📊 Gráficos Gerados<br><br>
-![Captura de tela 2025-05-12 174041](https://github.com/user-attachments/assets/166f46e4-4739-4fad-a245-6a2c3a64b936)
+![Captura de tela 2025-05-12 174041](https://github.com/user-attachments/assets/166f46e4-4739-4fad-a245-6a2c3a64b936) <br>
+
+![Captura de tela 2025-05-12 174011](https://github.com/user-attachments/assets/cc25c9e3-91ee-42b9-b565-496f01130be6) <br>
+
+![Captura de tela 2025-05-12 174001](https://github.com/user-attachments/assets/d17014db-fefe-479c-a13a-614493cea06d) <br>
+
+![Captura de tela 2025-05-12 174030](https://github.com/user-attachments/assets/9c2f8090-5e3a-4e59-9a85-76b029016722)
+
+
+
+
 
 
 🔮 Conclusão<br><br>
