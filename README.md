@@ -1,9 +1,9 @@
-# Engajamento-Instagram
-Análise de dados Com Python
-Análise de Engajamento no Instagram
-Este repositório contém uma análise dos dados de engajamento no Instagram para entender quais tipos de conteúdo geram mais interação. A análise foi realizada usando dados históricos das postagens no Instagram desde o início das publicações até o dia 27 de março.
+# Engajamento-Instagram  <br>
+Análise de dados Com Python <br>
+Análise de Engajamento no Instagram <br>
+Este repositório contém uma análise dos dados de engajamento no Instagram para entender quais tipos de conteúdo geram mais interação. A análise foi realizada usando dados históricos das postagens no Instagram desde o início das publicações até o dia 27 de março. <br>
 
-Objetivo
+Objetivo <br>
 O objetivo desta análise é responder às seguintes perguntas:
 
 Qual tipo de conteúdo mais engaja no Instagram da minha empresa?
